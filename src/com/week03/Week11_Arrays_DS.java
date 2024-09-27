@@ -20,7 +20,7 @@ public class Week11_Arrays_DS {
 
 	public class Test {
 
-		public static void main(String[] args) {
+		public void main(String[] args) {
 
 			int[] numbers = { 1, 2, 3, 4, 5 };
 
@@ -34,7 +34,7 @@ public class Week11_Arrays_DS {
 
 	}
 
-	public class ArrayListQuestion {
+	public static class ArrayListQuestion {
 
 		public static void main(String[] args) {
 
@@ -62,7 +62,7 @@ public class Week11_Arrays_DS {
 
 	}
 
-	public class ArrayListModification {
+	public static class ArrayListModification {
 
 		public static void main(String[] args) {
 
